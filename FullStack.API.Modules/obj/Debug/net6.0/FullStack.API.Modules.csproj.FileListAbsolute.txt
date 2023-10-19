@@ -1,0 +1,11 @@
+D:\Projects\FullStackApp\FullStack.API.Modules\bin\Debug\net6.0\FullStack.API.Modules.deps.json
+D:\Projects\FullStackApp\FullStack.API.Modules\bin\Debug\net6.0\FullStack.API.Modules.dll
+D:\Projects\FullStackApp\FullStack.API.Modules\bin\Debug\net6.0\FullStack.API.Modules.pdb
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\FullStack.API.Modules.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\FullStack.API.Modules.AssemblyInfoInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\FullStack.API.Modules.AssemblyInfo.cs
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\FullStack.API.Modules.csproj.CoreCompileInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\FullStack.API.Modules.dll
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\refint\FullStack.API.Modules.dll
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\FullStack.API.Modules.pdb
+D:\Projects\FullStackApp\FullStack.API.Modules\obj\Debug\net6.0\ref\FullStack.API.Modules.dll

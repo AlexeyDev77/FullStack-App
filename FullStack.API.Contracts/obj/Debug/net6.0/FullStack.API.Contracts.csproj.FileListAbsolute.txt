@@ -1,0 +1,17 @@
+D:\Projects\FullStackApp\FullStack.API.Contracts\bin\Debug\net6.0\FullStack.API.Contracts.deps.json
+D:\Projects\FullStackApp\FullStack.API.Contracts\bin\Debug\net6.0\FullStack.API.Contracts.dll
+D:\Projects\FullStackApp\FullStack.API.Contracts\bin\Debug\net6.0\FullStack.API.Contracts.pdb
+D:\Projects\FullStackApp\FullStack.API.Contracts\bin\Debug\net6.0\FullStack.API.Domain.dll
+D:\Projects\FullStackApp\FullStack.API.Contracts\bin\Debug\net6.0\FullStack.API.Domain.pdb
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.csproj.AssemblyReference.cache
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.AssemblyInfoInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.AssemblyInfo.cs
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.csproj.CopyComplete
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.dll
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\refint\FullStack.API.Contracts.dll
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\FullStack.API.Contracts.pdb
+D:\Projects\FullStackApp\FullStack.API.Contracts\obj\Debug\net6.0\ref\FullStack.API.Contracts.dll
+D:\Projects\FullStackApp\FullStack.API.Contracts\bin\Debug\net6.0\FullStack.FrameWork.Common.dll
+D:\Projects\FullStackApp\FullStack.API.Contracts\bin\Debug\net6.0\FullStack.FrameWork.Common.pdb

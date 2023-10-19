@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FullStack.API.Contracts/1.0.0": {
+        "dependencies": {
+          "FullStack.API.Domain": "1.0.0",
+          "FullStack.FrameWork.Common": "1.0.0"
+        },
+        "runtime": {
+          "FullStack.API.Contracts.dll": {}
+        }
+      },
+      "FullStack.API.Domain/1.0.0": {
+        "runtime": {
+          "FullStack.API.Domain.dll": {}
+        }
+      },
+      "FullStack.FrameWork.Common/1.0.0": {
+        "runtime": {
+          "FullStack.FrameWork.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FullStack.API.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FullStack.API.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FullStack.FrameWork.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

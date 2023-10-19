@@ -1,0 +1,12 @@
+D:\Projects\FullStackApp\FullStack.API.Configuration\bin\Debug\net6.0\FullStack.API.Configuration.deps.json
+D:\Projects\FullStackApp\FullStack.API.Configuration\bin\Debug\net6.0\FullStack.API.Configuration.dll
+D:\Projects\FullStackApp\FullStack.API.Configuration\bin\Debug\net6.0\FullStack.API.Configuration.pdb
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\FullStack.API.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\FullStack.API.Configuration.AssemblyInfoInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\FullStack.API.Configuration.AssemblyInfo.cs
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\FullStack.API.Configuration.csproj.CoreCompileInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\FullStack.API.Configuration.dll
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\refint\FullStack.API.Configuration.dll
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\FullStack.API.Configuration.pdb
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\ref\FullStack.API.Configuration.dll
+D:\Projects\FullStackApp\FullStack.API.Configuration\obj\Debug\net6.0\FullStack.API.Configuration.csproj.AssemblyReference.cache

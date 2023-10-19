@@ -1,0 +1,11 @@
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\bin\Debug\net6.0\FullStack.FrameWork.Common.deps.json
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\bin\Debug\net6.0\FullStack.FrameWork.Common.dll
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\bin\Debug\net6.0\FullStack.FrameWork.Common.pdb
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\FullStack.FrameWork.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\FullStack.FrameWork.Common.AssemblyInfoInputs.cache
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\FullStack.FrameWork.Common.AssemblyInfo.cs
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\FullStack.FrameWork.Common.csproj.CoreCompileInputs.cache
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\FullStack.FrameWork.Common.dll
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\refint\FullStack.FrameWork.Common.dll
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\FullStack.FrameWork.Common.pdb
+D:\Projects\FullStackApp\FullStack.FrameWork.Common\obj\Debug\net6.0\ref\FullStack.FrameWork.Common.dll

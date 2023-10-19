@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FullStack.API.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FullStack.API.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FullStack.API.Domain.dll": {}
+        }
+      },
+      "FullStack.FrameWork.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FullStack.FrameWork.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FullStack.FrameWork.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FullStack.API.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FullStack.API.Domain/FullStack.API.Domain.csproj",
+      "msbuildProject": "../FullStack.API.Domain/FullStack.API.Domain.csproj"
+    },
+    "FullStack.FrameWork.Common/1.0.0": {
+      "type": "project",
+      "path": "../FullStack.FrameWork.Common/FullStack.FrameWork.Common.csproj",
+      "msbuildProject": "../FullStack.FrameWork.Common/FullStack.FrameWork.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FullStack.API.Domain >= 1.0.0",
+      "FullStack.FrameWork.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AbroskinAS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\FullStackApp\\FullStack.API.Contracts\\FullStack.API.Contracts.csproj",
+      "projectName": "FullStack.API.Contracts",
+      "projectPath": "D:\\Projects\\FullStackApp\\FullStack.API.Contracts\\FullStack.API.Contracts.csproj",
+      "packagesPath": "C:\\Users\\AbroskinAS\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\FullStackApp\\FullStack.API.Contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\AbroskinAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Projects\\FullStackApp\\FullStack.API.Domain\\FullStack.API.Domain.csproj": {
+              "projectPath": "D:\\Projects\\FullStackApp\\FullStack.API.Domain\\FullStack.API.Domain.csproj"
+            },
+            "D:\\Projects\\FullStackApp\\FullStack.FrameWork.Common\\FullStack.FrameWork.Common.csproj": {
+              "projectPath": "D:\\Projects\\FullStackApp\\FullStack.FrameWork.Common\\FullStack.FrameWork.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

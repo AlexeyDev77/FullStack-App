@@ -1,0 +1,11 @@
+D:\Projects\FullStackApp\FullStack.API.Domain\bin\Debug\net6.0\FullStack.API.Domain.deps.json
+D:\Projects\FullStackApp\FullStack.API.Domain\bin\Debug\net6.0\FullStack.API.Domain.dll
+D:\Projects\FullStackApp\FullStack.API.Domain\bin\Debug\net6.0\FullStack.API.Domain.pdb
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\FullStack.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\FullStack.API.Domain.AssemblyInfoInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\FullStack.API.Domain.AssemblyInfo.cs
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\FullStack.API.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\FullStack.API.Domain.dll
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\refint\FullStack.API.Domain.dll
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\FullStack.API.Domain.pdb
+D:\Projects\FullStackApp\FullStack.API.Domain\obj\Debug\net6.0\ref\FullStack.API.Domain.dll
